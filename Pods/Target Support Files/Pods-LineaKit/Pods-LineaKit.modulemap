@@ -1,0 +1,6 @@
+framework module Pods_LineaKit {
+  umbrella header "Pods-LineaKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
